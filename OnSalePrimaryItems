@@ -1,0 +1,12 @@
+[[
+{
+  "Item1":["Cost":100, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item2":["Cost":200, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item3":["Cost":300, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item4":["Cost":400, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item5":["Cost":500, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item6":["Cost":600, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item7":["Cost":700, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"],
+  "Item8":["Cost":800, "Image":"rbxassetid://12911863280","AssociatedItem":"Item1"]
+}
+]]
