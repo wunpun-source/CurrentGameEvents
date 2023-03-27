@@ -1,0 +1,40 @@
+[[
+{
+	"PrimaryItem1Data": {
+		"Cost": 200,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "ShoddyRevolver"
+	},
+	"PrimaryItem2Data": {
+		"Cost": 100,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Knife"
+	},
+	"PrimaryItem3Data": {
+		"Cost": 300,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "SlowLoadingShotgun"
+	},
+	"PrimaryItem4Data": {
+		"Cost": 170,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "MetalPipe"
+	},
+	"PrimaryItem5Data": {
+		"Cost": 400,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "FastButterflyKnife"
+	},
+	"PrimaryItem6Data": {
+		"Cost": 300,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Pike"
+	},
+	"PrimaryItem7Data": {
+		"Cost": 50,
+		"DisplayImage": "rbxassetid://12911863280",
+		"CorrespondingItem": "Snowball"
+	}
+  
+}
+]]
