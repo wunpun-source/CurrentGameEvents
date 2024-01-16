@@ -3,42 +3,58 @@
 	"PrimaryItem1Data": {
 		"Cost": 200,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "ShoddyRevolver"
+		"CorrespondingItem": "ShoddyRevolver",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem2Data": {
 		"Cost": 100,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Knife"
+		"CorrespondingItem": "Knife",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem3Data": {
 		"Cost": 300,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "SlowLoadingShotgun"
+		"CorrespondingItem": "SlowLoadingShotgun",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem4Data": {
 		"Cost": 170,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "MetalPipe"
+		"CorrespondingItem": "MetalPipe",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem5Data": {
 		"Cost": 400,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "FastButterflyKnife"
+		"CorrespondingItem": "FastButterflyKnife",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem6Data": {
 		"Cost": 300,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Pike"
+		"CorrespondingItem": "Pike",
+		"FireRate": 80,
+		"Damage": 23
 	},
 	"PrimaryItem7Data": {
 		"Cost": 50,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Snowball"
+		"CorrespondingItem": "Snowball",
+		"FireRate": 80,
+		"Damage": 23
 	},
   	"PrimaryItem8Data": {
 		"Cost": 600,
 		"DisplayImage": "rbxassetid://12911863280",
-		"CorrespondingItem": "Musketoon"
+		"CorrespondingItem": "Musketoon",
+		"FireRate": 80,
+		"Damage": 23
 	}
 }
 ]]
