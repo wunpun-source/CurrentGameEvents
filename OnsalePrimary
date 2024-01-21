@@ -17,10 +17,9 @@
 		"DisplayImage": "rbxassetid://12911863280",
 		"CorrespondingItem": "Knife",
 		"Stats": {
-			"FireRate": 12,
+			"AttackRate": 12,
 			"Damage": 37,
 			"Durability": 23,
-			"DamageDropoff": 7,
 			"Weight": 2
 		}
 	},
@@ -29,8 +28,8 @@
 		"DisplayImage": "rbxassetid://12911863280",
 		"CorrespondingItem": "SlowLoadingShotgun",
 		"Stats": {
-			"FireRate": 12,
-			"Damage": 37,
+			"FireRate": 3,
+			"Damage": 67,
 			"Durability": 23,
 			"DamageDropoff": 7,
 			"Weight": 2
@@ -44,7 +43,6 @@
 			"FireRate": 12,
 			"Damage": 37,
 			"Durability": 23,
-			"DamageDropoff": 7,
 			"Weight": 2
 		}
 	},
@@ -53,10 +51,9 @@
 		"DisplayImage": "rbxassetid://12911863280",
 		"CorrespondingItem": "FastButterflyKnife",
 		"Stats": {
-			"FireRate": 12,
+			"FireRate": 92,
 			"Damage": 37,
 			"Durability": 23,
-			"DamageDropoff": 7,
 			"Weight": 2
 		}
 	},
@@ -68,7 +65,6 @@
 			"FireRate": 12,
 			"Damage": 37,
 			"Durability": 23,
-			"DamageDropoff": 7,
 			"Weight": 2
 		}
 	},
